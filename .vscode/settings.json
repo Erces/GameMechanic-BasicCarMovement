@@ -51,6 +51,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "CarMovement.sln",
+    "dotnet.defaultSolution": "GameMechanic-BasicCarMovement.sln",
     "dotnet.preferCSharpExtension": true
 }
